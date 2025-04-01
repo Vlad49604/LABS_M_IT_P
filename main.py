@@ -132,6 +132,7 @@ class ExpenseManager:
             ['Travel (flights, hotels, vacation activities)', 7],
             ['Utilities (electricity, water, internet, phone)', 8],
             ['Education (tuition, books, supplies)', 9],
+            ['Debt payments (credit card bills, loans)', 10],
             ['Cancel operation', 'cancel']
         ])
 
