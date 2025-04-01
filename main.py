@@ -137,7 +137,7 @@ class ExpenseManager:
             ['Personal care (haircuts, spa treatments, grooming products)', 12],
             ['Gifts and donations (birthday presents, charity donations)', 13],
             ['Household supplies (cleaning products, toiletries)', 14],
-            ['Other Expenses', 15],
+            ['Other Expenses',15],
             ['Cancel operation', 'cancel']
         ])
 
